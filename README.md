@@ -6,5 +6,5 @@
 - **`Term Project`** 
   - [I_Angry_Bird](https://github.com/ayeshathoi/AngryBird-TermProject)
   - *Collaborator* :  <br/>
-    - Akibur Rahman (1805061)
-    - Sayeed Hasan Ovi (1805074)
+    - Akibur Rahman (1805086)
+    - Sayeed Hasan Ovi (1805065)
